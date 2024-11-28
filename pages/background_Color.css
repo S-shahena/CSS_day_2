@@ -1,3 +1,45 @@
-h2{
-    color: chartreuse;
+/* 
+ background-color: bisque;
+ background-color: rgb(125, 156, 214); // rgb color
+  background-color:  rgba(95, 133, 202,0.6); // rgba color (color gonotto barano komano jay)
+
+*/
+
+/*  background-color: bisque;  */
+
+
+
+a{
+    background-color: rgb(182, 230, 105);
+    border:  10px solid rgb(46, 91, 187);
+    font-size: 20px;
+    color:white;
+    padding: 10px;
+    margin-bottom: 50px;
+    border-radius: 100px;
+
+
+}
+
+body{
+   background-color: bisque;
+}
+
+/* background-color: rgb(125, 156, 214); // rgb color */
+
+.div_1{
+    background-color: rgb(95, 133, 202);
+    text-align: center; 
+    margin: 20px;
+    padding: 20px;
+  
+}
+
+/* background-color:  rgba(95, 133, 202,0.6); */
+.div_2{
+    background-color: rgba(95, 133, 202,0.6);
+    text-align: center; 
+    margin: 20px;
+    padding: 20px;
+  
 }

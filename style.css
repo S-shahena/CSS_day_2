@@ -1,3 +1,105 @@
-h1{
-    color:blue
+body{
+    margin-top: 30px;
+}
+
+a{
+    background-color: rgb(9, 10, 73);
+    border:  10px solid rgb(209, 71, 106);
+    font-size: 50px;
+    color:white;
+    padding: 10px;
+    border-radius: 100px;
+    text-align: center;
+    margin-left: 50px;
+
+}
+
+#main_area{
+    background-color: rgb(133, 174, 202);
+    width: 80% ;
+    height: auto;
+    margin: auto;     
+    padding: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#section_area_1 .div_area_1{
+    background-color: rgb(29, 29, 95);
+    width: 70%;
+    margin: auto;
+    padding:30px;
+    color: aliceblue;
+    font-size: 20px;
+    margin-bottom: 15px;
+
+}
+
+#section_area_1 .div_area_1 p{
+    font-family: cursive;
+}
+
+#section_area_1 .article_area_1{
+    background-color: rgb(7, 125, 141);
+    width: 70%;
+    margin: auto;
+    padding:30px;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+#section_area_1 .article_area_1 h1{
+    background-color: beige;
+    padding: 5px;
+    text-align: center;
+    color: black;
+}
+
+#section_area_2 .div_area_2{
+    background-color: rgb(31, 125, 202);
+    width: 70%;
+    margin: auto;
+    padding:30px;
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: 30px;
+
+}
+
+
+
+#section_area_2 .div_area_3{
+    background-color: rgb(134, 31, 202);
+    width: 70%;
+    margin: auto;
+    padding:30px;
+    color: rgb(230, 180, 105);
+    font-size: 20px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+#section_area_2 .div_area_3 h1{
+    background-color: blanchedalmond;
+    padding: 5px;
+    text-align: center;
+}
+
+#section_area_2 .div_area_4 h1{
+    color:rgb(16, 24, 128);
+    font-size: 40px;
+    font-family: fantasy;
+    
+}
+
+#section_area_2 .div_area_4 p{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: antiquewhite;
+    padding: 20px;
+    text-align: left;
+    color: darkgrey;
 }

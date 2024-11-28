@@ -1,3 +1,159 @@
-h1{
-    color: blanchedalmond;
+
+/* 
+margin/padding-left:40px
+margin/padding-right:30px
+margin/padding-top:20px
+margin/padding-bottom:10px;
+
+// short
+                top  right botton left
+margin/padding : 40px 30px 20px 10px
+
+// short       top & bottom 40px, left & right 20px
+margin/padding : 40px  20px 
+*/
+
+
+
+
+a{
+    background-color: rgb(230, 180, 105);
+    border:  10px solid rgb(46, 91, 187);
+    font-size: 20px;
+    color:white;
+    padding: 10px;
+    border-radius: 100px;
+
+
+}
+
+/* margin use */
+
+.div_1{
+    width: 90%;
+    height: 80%;
+    background-color: blue;
+    color: rgb(219, 140, 140);
+    font-size: 30px;
+    margin: auto;
+    padding:50px;
+    margin-bottom: 20px;
+
+}
+
+
+
+.div_2{
+    width: 80%;
+    height: 70%;
+    background-color: rgb(59, 207, 22);
+    color: rgb(230, 29, 29);
+    font-size: 30px;
+    padding:50px;
+    margin-left: 150px;
+    margin-bottom: 20px;
+
+}
+
+.div_3{
+    width: 80%;
+    height: 70%;
+    background-color: rgb(231, 247, 18);
+    color: rgb(230, 29, 29);
+    font-size: 30px;
+    padding:50px;
+    margin-right: 150px;
+
+}
+
+.div_4{
+    width: 70%;
+    height: 60%;
+    background-color: rgb(18, 239, 247);
+    color: rgb(149, 103, 235);
+    font-size: 30px;
+    padding:50px;
+    margin-top: 150px;
+    margin-bottom: 20px;
+
+}
+
+.div_5{
+    width: 70%;
+    height: 60%;
+    background-color: rgb(169, 36, 187);
+    color: rgb(162, 204, 108);
+    font-size: 30px;
+    padding:50px;
+    margin-bottom: 150px;
+
+}
+
+/* padding use */
+
+/* focus padding-left */
+
+.div_6{
+    width: 90%;
+    height: 80%;
+    background-color: rgb(112, 173, 83);
+    color: rgb(145, 50, 50);
+    font-size: 30px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-left: 100px;
+
+}
+
+/* focus padding-right */
+.div_7{
+    width: 90%;
+    height: 80%;
+    background-color: rgb(231, 142, 26);
+    color: rgba(195, 240, 35, 0.842);
+    font-size: 30px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-right: 100px;
+
+}
+
+/* focus padding-top */
+.div_8{
+    width: 90%;
+    height: 80%;
+    background-color: rgb(221, 96, 13);
+    color: rgba(195, 240, 35, 0.842);
+    font-size: 30px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-top: 100px;
+
+}
+
+/* focus padding-bottom */
+.div_9{
+    width: 90%;
+    height: 80%;
+    background-color: rgb(29, 154, 212);
+    color: rgba(231, 110, 29, 0.842);
+    font-size: 30px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-bottom: 100px;
+
+}
+ 
+/* focus padding-top and bottom, left and right use of only padding than around equal padding */
+.div_10{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(181, 29, 212);
+    color: rgba(177, 231, 29, 0.842);
+    font-size: 30px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 150px;
+    text-align: center;
+
 }
